@@ -39,7 +39,7 @@ main {
 
 body {
   background-color: #a6a6a6;
-  background-image: url("assets/cubes.png");
+  background-image: url("../cubes.png");
   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
