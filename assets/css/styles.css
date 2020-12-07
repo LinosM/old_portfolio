@@ -60,3 +60,8 @@ h1 {
   padding: 24px 46px;
   color: #fff
 }
+
+@media screen and (max-width: 768px) {
+  
+
+}
