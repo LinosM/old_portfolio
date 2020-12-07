@@ -36,3 +36,27 @@ main {
   padding-top: 14px;
   color: #fff;
 }
+
+body {
+  background-color: #a6a6a6;
+  background-image: url("assets/cubes.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+section {
+  background-color: #fff;
+  padding: 30px;
+}
+
+h1 {
+  color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.submit {
+  font-size: 20px;
+  background-color: #4aaaa5;
+  padding: 24px 46px;
+  color: #fff
+}
