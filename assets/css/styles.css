@@ -8,14 +8,18 @@ html {
 }
 
 .navbar {
-  border-bottom: 1px solid #efefef;
+  border-bottom: 1px solid #BCD2E8;
+}
+
+.projectTitle {
+  font-size: 24px;
 }
 
 .logo {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 24px;
   font-weight: bold;
-  background-color: #4aaaa5;
+  background-color: #2E5984;
   padding: 10px;
   color: #fff !important;
 }
@@ -26,16 +30,16 @@ main {
 
 .footer {
   height: 62px;
-  border-top: 6px solid #4aaaa5;
+  border-top: 6px solid #2E5984;
   margin-top: 3px;
-  background-color: #666;
+  background-color: #91BAD6;
   padding-top: 14px;
   color: #fff;
 }
 
 body {
-  background-color: #a6a6a6;
-  background-image: url("../cubes.png");
+  background-color: #1E3F66;
+  background-image: url("../images/cubes.png");
 }
 
 section {
@@ -44,14 +48,14 @@ section {
 }
 
 h1 {
-  color: #4aaaa5;
+  color: #2E5984;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
 }
 
 .submit {
   font-size: 20px;
-  background-color: #4aaaa5;
+  background-color: #2E5984;
   padding: 24px 46px;
   color: #fff;
 }
