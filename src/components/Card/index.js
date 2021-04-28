@@ -9,8 +9,8 @@ function Card(props) {
                     <p className="card-text">
                         <h2>{props.name}</h2>
 
-                        {props.demo ? <div><a href={props.demo}>Demo</a> <br /></div> : ""}
-                        <a href={props.git} className="pb-3">GitHub</a>
+                        {props.demo ? <div><a href={props.demo} target="_blank">Demo</a> <br /></div> : ""}
+                        <a href={props.git} className="pb-3" target="_blank">GitHub</a>
                     </p>
                 </div>
         </div>
