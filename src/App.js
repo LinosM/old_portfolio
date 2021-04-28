@@ -2,7 +2,7 @@ import React from "react"
 import './App.css';
 import NavbarH from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Route, HashRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
@@ -11,7 +11,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <div className="body">
         <NavbarH />
         <Wrapper>
@@ -24,7 +24,7 @@ function App() {
           <Footer />
         </Wrapper>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
