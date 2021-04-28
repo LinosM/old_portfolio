@@ -1,6 +1,6 @@
-# UNC Bootcamp Homework 2 - Responsive Portfolio
+# React Portfolio
 
-This is a simple protfolio page created utilizing the Bootstrap CSS framework
+This is my portfolio site using React & Bootstrap
 
 The link to the page is below:
 
