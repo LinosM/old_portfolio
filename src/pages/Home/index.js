@@ -21,10 +21,10 @@ function Home() {
                     <div className="row">
                         <div className="col-md-12">
                             <a href="https://github.com/LinosM">
-                                <img src={gitImg} width="40" height="40" />        
+                                <img src={gitImg} alt="github" width="40" height="40" />        
                             </a>
                             <a href="https://www.linkedin.com/in/duy-nguyen-b979b01b7/">
-                                <img src={inImg} width="40" height="40" />
+                                <img src={inImg} alt="linkedin" width="40" height="40" />
                             </a>
                         </div>
                     </div>

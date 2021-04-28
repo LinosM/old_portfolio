@@ -3,10 +3,6 @@ html {
     min-height: 100%
 }
 
-.projectTitle {
-    font-size: 24px;
-}
-
 .logo {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
@@ -40,15 +36,8 @@ section {
     padding: 30px;
 }
 
-h1 {
+body h1 {
     color: #2E5984;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-}
-
-.submit {
-    font-size: 20px;
-    background-color: #2E5984;
-    padding: 24px 46px;
-    color: #fff;
 }

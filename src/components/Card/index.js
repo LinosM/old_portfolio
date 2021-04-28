@@ -4,13 +4,13 @@ import './style.css';
 function Card(props) {
     return (
         <div className="card">
-            <img src={props.img} className="card-img-top" alt={props.name} />
+            <img src={props.img} className="card-img-top border border-dark rounded" alt={props.name} />
                 <div className="card-body">
                     <p className="card-text">
                         <h2>{props.name}</h2>
-                        <a href={props.demo}>Demo</a>
-                        <br />
-                        <a href={props.git}>GitHub</a>
+
+                        {props.demo ? <div><a href={props.demo}>Demo</a> <br /></div> : ""}
+                        <a href={props.git} className="pb-3">GitHub</a>
                     </p>
                 </div>
         </div>

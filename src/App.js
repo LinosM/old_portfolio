@@ -1,3 +1,4 @@
+import React from "react"
 import './App.css';
 import NavbarH from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
@@ -6,6 +7,7 @@ import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import { Container } from "react-bootstrap";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -19,6 +21,7 @@ function App() {
             <Route exact path="/Portfolio" component={Portfolio} />
             <Route exact path="/Contact" component={Contact} />
           </Container>
+          <Footer />
         </Wrapper>
       </div>
     </Router>
