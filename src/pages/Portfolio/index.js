@@ -18,7 +18,7 @@ function Portfolio() {
                 <title>Portfolio | Duy Nguyen</title>
             </Helmet>
             <div className="col-md-12 mt-5">
-                <section>
+                <section style={{maxHeight: "700px", maxWidth: "800px"}}>
                     <h1>Portfolio</h1>
                     <hr />
                     <div className="row">

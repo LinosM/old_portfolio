@@ -3,7 +3,7 @@ import './style.css';
 
 function Card(props) {
     return (
-        <div className="card">
+        <div className="card" style={{maxHeight: "700px", maxWidth: "800px"}}>
             <img src={props.img} className="card-img-top border border-dark rounded" alt={props.name} />
                 <div className="card-body">
                     <p className="card-text">
