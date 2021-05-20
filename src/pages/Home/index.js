@@ -37,12 +37,11 @@ function Home() {
                     <p>
                         I specialize in React, Node.js, Express.js, MongoDB, jQuery, Bootstrap, & Bulma. I also have experience with HTML, CSS, Heroku, MySQL, APIs, JSON, AJAX.
                     </p>
-
-                    <p>
-                        My family originated from Vietnam, but I was born in Maryland and raised in North Carolina most of my life. My hobbies have been spent mostly around technology, which helped started my passion for programming.
-                    </p>
                     <p>
                         I've taken intro courses for C++, Java, & Python in Wake Tech Community College before I took the UNC Bootcamp.
+                    </p>
+                    <p>
+                        My family originated from Vietnam, but I was born in Maryland and raised in North Carolina most of my life. My hobbies have been spent mostly around technology, which helped started my passion for programming.
                     </p>
                 </section>
             </div>
