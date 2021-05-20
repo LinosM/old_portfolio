@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import gitImg from "../../images/icons/git.png";
 import inImg from "../../images/icons/in.png";
-import profilePic from "../../images/face.png";
+import profilePic from "../../images/face2.jpg";
 
 function Home() {
     return (
@@ -32,11 +32,17 @@ function Home() {
                     <hr/>
                     <img className="rounded float-left mr-4 img-fluid" src={profilePic} alt="placeholder" width="200" height="200" />
                     <p>
-                        Nunc tristique magna a ligula faucibus facilisis at vitae urna. Praesent ultrices nunc eget ex sodales eleifend. Mauris eu nisl urna. Sed porttitor gravida orci, id dignissim mauris vestibulum at. Sed sagittis porta nulla eu mattis. Aliquam pellentesque sagittis imperdiet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer et rhoncus arcu, id elementum purus. Cras rutrum eros sed felis rhoncus egestas. Donec gravida vitae justo a blandit. Donec eros erat, pellentesque et mattis vitae, varius ac odio. Sed feugiat et quam vitae tincidunt. Aenean id purus est. Cras molestie ipsum quis tincidunt pretium.
+                        I am a Full-Stack web developer with a certificate from The Coding Boot Camp at UNC-Chapel Hill.
+                    </p>
+                    <p>
+                        I specialize in React, Node.js, Express.js, MongoDB, jQuery, Bootstrap, & Bulma. I also have experience with HTML, CSS, Heroku, MySQL, APIs, JSON, AJAX.
                     </p>
 
                     <p>
-                        Phasellus erat eros, convallis non dictum a, venenatis a massa. Nullam consequat vel dolor nec malesuada. Sed quis augue non orci rhoncus iaculis. Donec id tortor ullamcorper, venenatis felis sit amet, placerat ex. Aenean eu eros in eros efficitur eleifend in nec lacus. Etiam id viverra elit, ut lacinia sem. In sit amet viverra ipsum, auctor viverra dui. Suspendisse ex dolor, lobortis ac commodo eget, sodales vitae libero. Praesent quis mollis risus, nec aliquam neque. Sed ultrices quam sit amet egestas vestibulum. Donec tincidunt, enim et facilisis semper, tellus libero fermentum risus, eu rhoncus libero orci vel nisl. Aliquam nec venenatis nisi. Proin sollicitudin vitae dui id scelerisque. Vivamus vitae bibendum nisi, ac efficitur mauris.
+                        My family originated from Vietnam, but I was born in Maryland and raised in North Carolina most of my life. My hobbies have been spent mostly around technology, which helped started my passion for programming.
+                    </p>
+                    <p>
+                        I've taken intro courses for C++, Java, & Python in Wake Tech Community College before I took the UNC Bootcamp.
                     </p>
                 </section>
             </div>
