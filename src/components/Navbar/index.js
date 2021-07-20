@@ -21,7 +21,12 @@ function NavbarH() {
                         </Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                        <Nav.Link eventKey="3" as={Link} to="/Contact">
+                        <Nav.Link eventKey="3" as={Link} to="/Resume">
+                            Resume
+                        </Nav.Link>
+                    </Nav.Item>
+                    <Nav.Item>
+                        <Nav.Link eventKey="4" as={Link} to="/Contact">
                             Contact
                         </Nav.Link>
                     </Nav.Item>

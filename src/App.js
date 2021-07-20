@@ -6,6 +6,7 @@ import { Route, HashRouter } from "react-router-dom";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
+import Resume from "./pages/Resume";
 import { Container } from "react-bootstrap";
 import Footer from "./components/Footer";
 
@@ -18,7 +19,8 @@ function App() {
           <Container>
             <Route exact path="/" component={Home} />
             <Route exact path="/Home" component={Home} />
-            <Route exact path="/Portfolio" component={Portfolio} />
+            <Route exact path="/Portfolio" component={Portfolio} />\
+            <Route exact path="/Resume" component={Resume} />
             <Route exact path="/Contact" component={Contact} />
           </Container>
           <Footer />
