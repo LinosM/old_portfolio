@@ -33,3 +33,9 @@ body h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
+
+body h3 {
+    color: #2E5984;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

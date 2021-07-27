@@ -4,95 +4,123 @@
         "name": "StreamFlow",
         "demo": "https://streamflowteam4.herokuapp.com/",
         "git": "https://github.com/imanid-code/streamflow",
-        "img": "https://raw.githubusercontent.com/LinosM/linosm.github.io/main/src/images/streamflow.png"
+        "img": "https://raw.githubusercontent.com/LinosM/linosm.github.io/main/src/images/streamflow.png",
+        "about": "StreamFlow is a project management application where users can create a profile to manage solo and team projects. Each project allows users to create tasks that can be assigned to users and have due dates and levels of urgency.",
+        "tech": [ "React", "JavaScript", "NodeJS", "Bulma CSS", "MomentJS", "MongoDB", "Express" ]
     },
     {
         "id": 1,
         "name": "Subscription Tracker",
         "demo": "https://subscription-trkr.herokuapp.com/",
         "git": "https://github.com/JaredWeaver/Subscription-Tracker",
-        "img": "https://github.com/LinosM/linosm.github.io/raw/main/src/images/subtracker.PNG?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/raw/main/src/images/subtracker.PNG?raw=true",
+        "about": "Subscription Tracker is an application that tracks various recurring subscriptions and costs laid out neatly via a list and calendar.",
+        "tech": [ "JavaScript", "HTML", "MySQL", "jQuery", "Sequelize", "Tailwind CSS", "MomentJS", "Passport", "Full Calandar" ]
     },
     {
         "id": 2,
         "name": "Employee Directory",
         "demo": "https://linosm.github.io/employee-directory/",
         "git": "https://github.com/LinosM/employee-directory",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/employee-dir.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/employee-dir.png?raw=true",
+        "about": "Employee Directory is a React application that uses the Random User Generator API to generate a list of users for a fake employee list.",
+        "tech": [ "React", "JavaScript", "Bootstrap", "Node", "JSX" ]
     },
     {
         "id": 3,
         "name": "Budget Tracker",
         "demo": "https://budget-tracker768.herokuapp.com/",
         "git": "https://github.com/LinosM/budget-tracker",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/budget-tracker.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/budget-tracker.png?raw=true",
+        "about": "Progressive Web Application budget tracker, allowing you to manage transactions online & offline.",
+        "tech": [ "JavaScript", "HTML", "MongoDB", "Bootstrap", "Node", "Express" ]
     },
     {
         "id": 4,
         "name": "Workout Tracker",
         "demo": "https://worker-tracker768.herokuapp.com/",
         "git": "https://github.com/LinosM/workout-tracker",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/workout-tracker.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/workout-tracker.png?raw=true",
+        "about": "Application that allows users to track their workouts",
+        "tech": [ "JavaScript", "HTML", "MongoDB", "Node", "Express" ]
     },
     {
         "id": 5,
         "name": "Eat Da Burger!",
         "demo": "https://eat-da-burger768.herokuapp.com/",
         "git": "https://github.com/LinosM/Eat-Da-Burger",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/eatdaburger.PNG?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/eatdaburger.PNG?raw=true",
+        "about": "A bugger logger created to ultilize the MVC paradigm",
+        "tech": [ "JavaScript", "HTML", "MySQL", "Bootstrap", "Handlebars", "Node", "Express" ]
     },
     {
         "id": 6,
         "name": "Employee Tracker",
         "git": "https://github.com/LinosM/employee-tracker",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/employee-tracker.PNG?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/employee-tracker.PNG?raw=true",
+        "about": "CLI application for managing employees/roles/departments, first project to use MySQL",
+        "tech": [ "JavaScript", "Node", "Inquirer", "MySQL" ]
     },
     {
         "id": 7,
         "name": "Note Taker",
         "demo": "https://note-taker-dtnguyen768.herokuapp.com/",
         "git": "https://github.com/LinosM/Note-Taker",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/note2.PNG?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/note2.PNG?raw=true",
+        "about": "Simple note taking app made in JavaScript and Express back-end that writes and save notes to a JSON file",
+        "tech": [ "JavaScript", "HTML", "Express", "Node", "Bootstrap" ]
     },
     {
         "id": 8,
         "name": "Team Profile Generator",
         "git": "https://github.com/LinosM/team-profile-generator",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/team-gen.jpg?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/team-gen.jpg?raw=true",
+        "about": "Team Profile Generator is a CLI application that takes in information about employees on a software engineering team and generates an HTML page that displays their information",
+        "tech": [ "JavaScript", "Node", "Inquirer", "Jest" ]
     },
     {
         "id": 9,
         "name": "Laughs & Eats",
         "demo": "https://kcrammer.github.io/Laughs-and-Eats/",
         "git": "https://github.com/kcrammer/Laughs-and-Eats",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/eats.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/eats.png?raw=true",
+        "about": "Laughs & Eats lists restaurants in your area along with several jokes to use for your date!",
+        "tech": [ "JavaScript", "HTML", "Bootstrap", "jQuery" ]
     },
     {
         "id": 10,
         "name": "Weather Dashboard",
         "demo": "https://linosm.github.io/WeatherDashboard/",
         "git": "https://github.com/LinosM/WeatherDashboard",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/weather.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/weather.png?raw=true",
+        "about": "This application ultilizes the OpenWeather API to show the current weather conditions along with the forcast for the next 5 days. The last 10 cities searched are also saved and stored on the left-hand side of the page.",
+        "tech": [ "JavaScript", "HTML", "Bootstrap", "jQuery" ]
     },
     {
         "id": 11,
         "name": "Password Generator",
         "demo": "https://linosm.github.io/passwordgenerator/",
         "git": "https://github.com/LinosM/passwordgenerator",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/password1.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/password1.png?raw=true",
+        "about": "Basic password generator generated via prompts",
+        "tech": [ "JavaScript", "HTML" ]
     },
     {
         "id": 12,
         "name": "Code Quiz",
         "demo": "https://linosm.github.io/codequiz/",
         "git": "https://github.com/LinosM/codequiz",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/quiz1.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/quiz1.png?raw=true",
+        "about": "A quiz that asks the users questions relating to JavaScript. At the end the user's score is displayed along with a text box to enter their initials.",
+        "tech": [ "JavaScript", "HTML" ]
     },
     {
         "id": 13,
         "name": "Work Day Scheduler",
         "demo": "https://linosm.github.io/workdayscheduler/",
         "git": "https://github.com/LinosM/workdayscheduler",
-        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/worksch.png?raw=true"
+        "img": "https://github.com/LinosM/linosm.github.io/blob/main/src/images/worksch.png?raw=true",
+        "about": "A simple calandar application that allows a user to save events for each hour of the day.",
+        "tech": [ "JavaScript", "HTML", "Bootstrap", "jQuery", "MomentJS" ]
     }
 ]
